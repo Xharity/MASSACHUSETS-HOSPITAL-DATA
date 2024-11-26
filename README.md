@@ -4,7 +4,6 @@
 
 This project aims to analyze and visualize healthcare data from Massachusets hospitals, to help the executive team quickly understand its recent performance in key areas. This entails building a high-level KPI report for the executive team, based on a subset of patient records. The purpose of the report is to give stalkerholders visibility into the hospital's recent performance to provide insights into operational efficiency, patient care outcomes, resource utilization, and financial performance. The goal is to enable stakeholders to make data-driven decisions that improve healthcare services and optimize resources.
 
-The dashboard should scale to accommodate new data over time, but the CEO has asked you to summarize any insights you can derive from the sample provided.
 
 ![Dashboard](https://github.com/Xharity/MASSACHUSETS-HOSPITAL-DATA/blob/main/Screenshot%202024-11-25%20110202.png?raw=true)
 
